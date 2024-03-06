@@ -1,4 +1,3 @@
-Certainly! Here's an organized and formatted version of your instructions for setting up a Flask App with MySQL using Docker and without Docker Compose:
 
 ```markdown
 # Flask App with MySQL Docker Setup
